@@ -1,0 +1,38 @@
+body, html, .container-fluid {
+    height: 100%;
+    
+    color:black;
+}
+ /* body {
+    /* background-color: #2D0C78 ; */
+    /* background-image: linear-gradient(to bottom right,#2D0C78, #8326B4); */
+    /* color:white;
+    background-repeat: no-repeat;
+    
+}
+.navbar {
+    background-color: #2D0C78;
+
+}
+a {
+    color: white;
+    border:1px ;
+}
+a:hover {
+    color: white ;
+    box-shadow :inset 0 -1px 0 0 white;
+}
+.active {
+    box-shadow :inset 0 -1px 0 0 white;
+}
+
+.stage {
+    height:50%;
+    
+} */ 
+
+
+.stage {
+    height:90%;
+    background-image: linear-gradient(to bottom right,#2D0C78, #8326B4);
+}
