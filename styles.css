@@ -33,6 +33,14 @@ a:hover {
 
 
 .stage {
-    height:90%;
+    height:85%;
     background-image: linear-gradient(to bottom right,#2D0C78, #8326B4);
+}
+#features{
+    height: 50%;
+    background-color: #FAF8FE;
+}
+#footer {
+    height:30%;
+    
 }
